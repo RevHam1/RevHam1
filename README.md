@@ -14,7 +14,7 @@
 -	Prepare Exploratory Data Analysis reports with Python   concerning the distribution of Cardiovascular disease and related factors.
 -	Created Machine Learning Models to predict risk of heart attack using logistic regression & random forest comparing the results..
 
-<img src="images/Course%20End%20Healthcare.png" width="75%">
+<img src="images/Course%20End%20Healthcare3.png" width="75%">
 
 
 
