@@ -7,4 +7,4 @@
 -	Utilized Feature Selection to choose the most significant influences from 79 numerical and categorical features..
 -	Aggregated and visualized the data by using pandas, matplotlib and seaborn to compile a professional reportn.
 
-![](Images/FE%20Home%20Selection.png)
+![](images/FE%20Home%20Selection.png)
