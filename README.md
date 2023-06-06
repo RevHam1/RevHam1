@@ -9,9 +9,15 @@
 <img src="images/FE%20Home%20Selection.png" width="75%">
 
 ### [Project 2: Health Care Cardiovascular](https://github.com/RevHam1/Health-Care-)
--	Preform Data Wrangling & Cleaning with panda on data to prepare Cardiovascular reports and utilize data in perdition models..
--	Prepare Exploratory Data Analysis reports with Python   concerning the distribution of Cardiovascular disease and related factors.
+-	Preformd Data Wrangling & Cleaning with panda on data to prepare Cardiovascular reports and utilize data in perdition models..
+-	Prepared Exploratory Data Analysis reports with Python concerning the distribution of Cardiovascular disease and related factors.
 -	Created Machine Learning Models to predict risk of heart attack using logistic regression & random forest comparing the results..
+<img src="images/Course%20End%20Healthcare4.png" width="75%">
+
+### [Project 3: Comparative Study of Countries: Life Insurance](https://github.com/RevHam1/Comparative-Study-of-Countries)
+-	Created a dashboard with Tableau that compares income, life insurance ratio of reinsurance acceptance, & retention..
+-	Created an interactive geographic map showing various countries according to income and data from the world bank webpage..
+-	●	Created KPI Tools to report by specified year and market share.
 <img src="images/Course%20End%20Healthcare4.png" width="75%">
 
 
