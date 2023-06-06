@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
- - [Feature Engineering: Home Selection](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Health Care Cardiovascular](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Comparative Study of Countries: Life Insurance Share](https://github.com/joshmadakor1/Algorithms-Practice)
- - [Health Care (National Institute of Diabetes and Digestive and Kidney Diseases)](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Feature Engineering: Home Selection](https://github.com/RevHam1/Feature_Engineering_Home_Selection)
+ - [Health Care Cardiovascular](https://github.com/RevHam1/Health-Care-)
+ - [Comparative Study of Countries: Life Insurance Share](https://github.com/RevHam1/Comparative-Study-of-Countries)
+ - [Health Care (National Institute of Diabetes and Digestive and Kidney Diseases)](https://github.com/RevHam1/Healthcare-NIDDK)
 
 <h2>📺 Certifications</h2>
 
