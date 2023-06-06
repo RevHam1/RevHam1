@@ -24,7 +24,7 @@
 -	Data Exploration: Utilized Python and SMOTE to prepare, display, and understand the data for perdition models.
 -	Data Modeling: Utilized PyCaret and Logistic Regression to build predictive model sfor the causes of diabetes..
 - Data Reporting: Utilized Tableau to create a dashboard with appropriate chart and metrics visualizing the causes of diabetes.
-<img src="images/Comparative%20Study%20of%20Countries2.png" width="75%">
+<img src="images/Healthcare%20NIDDK.png" width="75%">
 
 
 
