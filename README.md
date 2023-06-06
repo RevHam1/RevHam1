@@ -18,7 +18,7 @@
 -	Created a dashboard with Tableau that compares income, life insurance ratio of reinsurance acceptance, & retention..
 -	Created an interactive geographic map showing various countries according to income and data from the world bank webpage..
 -	●	Created KPI Tools to report by specified year and market share.
-<img src="images/Course%20End%20Healthcare4.png" width="75%">
+<img src="images/Comparative%Study%of%Countries2.png" width="75%">
 
 
 
