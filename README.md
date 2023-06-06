@@ -17,8 +17,15 @@
 ### [Project 3: Comparative Study of Countries: Life Insurance](https://github.com/RevHam1/Comparative-Study-of-Countries)
 -	Created a dashboard with Tableau that compares income, life insurance ratio of reinsurance acceptance, & retention..
 -	Created an interactive geographic map showing various countries according to income and data from the world bank webpage..
--	●	Created KPI Tools to report by specified year and market share.
+-	Created KPI Tools to report by specified year and market share.
 <img src="images/Comparative%20Study%20of%20Countries2.png" width="75%">
+
+### [Project 4: Health Care (National Institute of Diabetes and Digestive and Kidney Diseases)](https://github.com/RevHam1/Comparative-Study-of-Countries)
+-	Data Exploration: Utilized Python and SMOTE to prepare, display, and understand the data for perdition models.
+-	Data Modeling: Utilized PyCaret and Logistic Regression to build predictive model sfor the causes of diabetes..
+- Data Reporting: Utilized Tableau to create a dashboard with appropriate chart and metrics visualizing the causes of diabetes.
+<img src="images/Comparative%20Study%20of%20Countries2.png" width="75%">
+
 
 
 
