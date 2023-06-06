@@ -16,3 +16,5 @@
 
 <img src="images/Course%End%Healthcare.png" width="75%">
 ![](images/Course%End%Healthcare.png)
+
+![](images/Course%End%Healthcare.png)
