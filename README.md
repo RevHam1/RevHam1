@@ -15,3 +15,4 @@
 -	Created Machine Learning Models to predict risk of heart attack using logistic regression & random forest comparing the results..
 
 <img src="images/Course%End%Healthcare.png" width="75%">
+![](images/Course%End%Healthcare.png)
