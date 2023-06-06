@@ -1,7 +1,35 @@
-### Hi there 👋
+<h1>Hello, I'm Tyrone!</h1>
+
+<h2>👨‍💻 Data Science Projects:</h2>
+
+ - [Feature Engineering: Home Selection](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Health Care Cardiovascular](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Comparative Study of Countries: Life Insurance Share](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Health Care (National Institute of Diabetes and Digestive and Kidney Diseases)](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📺 Certifications</h2>
+
+- [Simplilearn](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**RevHam1/RevHam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
